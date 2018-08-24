@@ -7,7 +7,7 @@
       * ENDOPT:                                                         00070026
       ******************************************************************00080026
        IDENTIFICATION DIVISION.                                         00090026
-       PROGRAM-ID. DB2CBLEX.                                            00100026
+       PROGRAM-ID. DB2CBLEV.                                            00100026
       *    AUTHOR. R. WAGNER                                            00110026
       *                                                                 00120026
       *    OWNER:                                                       00130026
