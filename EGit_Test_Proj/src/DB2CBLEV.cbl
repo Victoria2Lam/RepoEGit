@@ -7,7 +7,7 @@
       * ENDOPT:                                                         00070026
       ******************************************************************00080026
        IDENTIFICATION DIVISION.                                         00090026
-       PROGRAM-ID. DB2CBLEX.                                            00100026
+       PROGRAM-ID. DB2CBLEV.                                            00100026
       *    AUTHOR. R. WAGNER                                            00110026
       *                                                                 00120026
       *    OWNER:                                                       00130026
@@ -69,6 +69,7 @@
       *  LOUIS - CHANGED ORDER BY WORKDEPT            2018-07-10       *00540733
       *  LOUIS - CHANGED ORDER BY SALARY              2018-07-16       *00540733
       *  LOUIS - CHANGED ORDER BY LASTNAME            2018-07-18       *00540733
+      *  Victoria - Testing                           2018-08-27       *
       *                                                                *00540826
       ******************************************************************00550026
       ***           E N D  P R O G R A M  C H A N G E  L O G           *00560026
