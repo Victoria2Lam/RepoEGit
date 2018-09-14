@@ -69,7 +69,6 @@
       *  LOUIS - CHANGED ORDER BY WORKDEPT            2018-07-10       *00540733
       *  LOUIS - CHANGED ORDER BY SALARY              2018-07-16       *00540733
       *  LOUIS - CHANGED ORDER BY LASTNAME            2018-07-18       *00540733
-      *  VICTORIA - CHANGED ORDER BY FIRSTNAME        2018-09-12       *
       *                                                                *00540826
       ******************************************************************00550026
       ***           E N D  P R O G R A M  C H A N G E  L O G           *00560026
