@@ -150,7 +150,7 @@
                             WORKDEPT,                                   02130026
                             SALARY                                      02140026
                      FROM DSN8110.EMP                                   02150026
-                     ORDER BY LASTNAME ASC                              02160026
+                     ORDER BY EMPNO ASC                                 02160026
                                                                         02160026
                    END-EXEC.                                            02170026
                                                                         02180026
